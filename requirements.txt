@@ -1,3 +1,5 @@
 paypalrestsdk
 bcchapi
 Flask
+mysql-connector-python
+psycopg2
